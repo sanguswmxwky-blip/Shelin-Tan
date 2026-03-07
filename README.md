@@ -4,3 +4,4 @@
 核心功能
 
 支持JPG、PNG、PDF等多格式输入，默认中英双语识别可扩展；高精度识别复杂排版，支持批量处理，可导出TXT、DOCX等格式；支持本地、Docker部署及接口调用。
+<img width="584" height="433" alt="image" src="https://github.com/user-attachments/assets/8543d5c6-19d7-425b-923d-34f49a32122d" />
